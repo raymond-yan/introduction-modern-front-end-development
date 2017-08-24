@@ -24,5 +24,4 @@ const square = n => n * n;
 
 console.log("arrow function sum " + sum({first:5,last:3}));
 console.log( "square == "+ square(4));
-
-
+console.log( "square == "+ square(4));
